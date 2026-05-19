@@ -1,0 +1,2 @@
+# Rapport-d-analyse-et-comparaison-des-Classifiers-RegressionLogistic-Catboost-SVM-
+PPartie A - Comparaison approfondie des 3 classifieurs(LogReg / SVM / CatBoost) - ROC + Precision-Recall + calibration interactives - Stabilite multi-seeds, bootstrap des AUC, comparaison par paires - Threshold sweep (sensibilite/specificite/F1 vs seuil) - Importance des variables (coefficients, gain CatBoost, permutation pour SVM)
